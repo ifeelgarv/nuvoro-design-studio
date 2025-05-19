@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: "Inter";
+  font-family: "Blanquotey";
   color: var(--fg);
 }
 
@@ -74,7 +74,7 @@ p {
 }
 
 .home .header h1 {
-  font-size: 30.5vw;
+  font-size: 32.5vw;
   text-align: center;
 }
 
